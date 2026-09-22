@@ -1,2 +1,2 @@
-# HTML-CSS-Kisisel-Web-Sayfas-
+# HTML-CSS-Kisisel-Web-Sayfasi
 Sadece HTML ve CSS kullanılarak yapılmıştır.
